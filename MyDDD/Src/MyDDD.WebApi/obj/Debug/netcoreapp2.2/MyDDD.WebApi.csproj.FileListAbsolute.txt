@@ -1,0 +1,14 @@
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\bin\Debug\netcoreapp2.2\MyDDD.WebApi.deps.json
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\bin\Debug\netcoreapp2.2\MyDDD.WebApi.runtimeconfig.json
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\bin\Debug\netcoreapp2.2\MyDDD.WebApi.runtimeconfig.dev.json
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\bin\Debug\netcoreapp2.2\MyDDD.WebApi.dll
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\bin\Debug\netcoreapp2.2\MyDDD.WebApi.pdb
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.csprojAssemblyReference.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.csproj.CoreCompileInputs.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.RazorAssemblyInfo.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.RazorAssemblyInfo.cs
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.AssemblyInfoInputs.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.AssemblyInfo.cs
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.RazorTargetAssemblyInfo.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.dll
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.WebApi\obj\Debug\netcoreapp2.2\MyDDD.WebApi.pdb

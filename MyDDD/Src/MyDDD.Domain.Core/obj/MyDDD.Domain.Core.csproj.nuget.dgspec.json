@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\MyProject\\MyDDD\\MyDDD\\Src\\MyDDD.Domain.Core\\MyDDD.Domain.Core.csproj": {}
+  },
+  "projects": {
+    "F:\\MyProject\\MyDDD\\MyDDD\\Src\\MyDDD.Domain.Core\\MyDDD.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MyProject\\MyDDD\\MyDDD\\Src\\MyDDD.Domain.Core\\MyDDD.Domain.Core.csproj",
+        "projectName": "MyDDD.Domain.Core",
+        "projectPath": "F:\\MyProject\\MyDDD\\MyDDD\\Src\\MyDDD.Domain.Core\\MyDDD.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\MyProject\\MyDDD\\MyDDD\\Src\\MyDDD.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dev.nuget.beisencorp.com/nuget": {},
+          "http://devhistory.nuget.beisencorp.com/nuget": {},
+          "http://devthird.nuget.beisencorp.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

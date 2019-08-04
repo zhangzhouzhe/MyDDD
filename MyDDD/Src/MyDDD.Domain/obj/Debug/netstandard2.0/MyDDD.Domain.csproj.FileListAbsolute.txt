@@ -1,0 +1,9 @@
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.deps.json
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.dll
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.pdb
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.csprojAssemblyReference.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.csproj.CoreCompileInputs.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.AssemblyInfoInputs.cache
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.AssemblyInfo.cs
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.dll
+F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.pdb
