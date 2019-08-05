@@ -7,3 +7,15 @@ F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.
 F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.AssemblyInfo.cs
 F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.dll
 F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.deps.json
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.csprojAssemblyReference.cache
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.csproj.CoreCompileInputs.cache
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.AssemblyInfoInputs.cache
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.AssemblyInfo.cs
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.Core.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\bin\Debug\netstandard2.0\MyDDD.Domain.Core.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Domain\obj\Debug\netstandard2.0\MyDDD.Domain.csproj.CopyComplete

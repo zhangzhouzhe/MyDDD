@@ -7,7 +7,7 @@ using System.Text;
 
 namespace MyDDD.Application.AutoMappers
 {
-    public class DomainToViewModelMappingProfile
+    public class DomainToViewModelMappingProfile : Profile
     {
         public DomainToViewModelMappingProfile()
         {

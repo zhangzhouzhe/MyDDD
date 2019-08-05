@@ -10,3 +10,17 @@ F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD
 F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.csproj.CopyComplete
 F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.dll
 F:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD.Infrastructure.deps.json
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD.Infrastructure.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD.Infrastructure.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD.Domain.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD.Domain.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.csprojAssemblyReference.cache
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.AssemblyInfoInputs.cache
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.AssemblyInfo.cs
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.csproj.CopyComplete
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\obj\Debug\netstandard2.0\MyDDD.Infrastructure.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD.Domain.Core.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Infrastructure\bin\Debug\netstandard2.0\MyDDD.Domain.Core.pdb
