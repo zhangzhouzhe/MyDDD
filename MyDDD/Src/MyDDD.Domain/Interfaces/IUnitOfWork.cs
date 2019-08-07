@@ -4,7 +4,8 @@ using System.Text;
 
 namespace MyDDD.Domain.Interfaces
 {
-    class IUnitOfWork
+    public interface  IUnitOfWork
     {
+        bool Commit();
     }
 }

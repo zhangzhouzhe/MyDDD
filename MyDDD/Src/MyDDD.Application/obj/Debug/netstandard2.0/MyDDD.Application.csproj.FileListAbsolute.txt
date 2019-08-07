@@ -26,3 +26,5 @@ D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Application\obj\Debug\netstandard2.0\MyDDD.Ap
 D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Application\obj\Debug\netstandard2.0\MyDDD.Application.pdb
 D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Application\bin\Debug\netstandard2.0\MyDDD.Domain.Core.dll
 D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Application\bin\Debug\netstandard2.0\MyDDD.Domain.Core.pdb
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Application\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MyProject\MyDDD\MyDDD\Src\MyDDD.Application\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.xml
