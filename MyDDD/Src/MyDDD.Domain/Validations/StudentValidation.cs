@@ -15,5 +15,12 @@ namespace MyDDD.Domain.Validations
                 .NotEmpty().WithMessage("姓名不能为空")
                 .Length(2, 10).WithMessage("长度");
         }
+
+        protected void ValidataEmail()
+        {
+            RuleFor(it => it.Email)
+                .NotEmpty()
+                .EmailAddress();
+        }
     }
 }

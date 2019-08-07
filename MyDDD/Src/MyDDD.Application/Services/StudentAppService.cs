@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using MyDDD.Application.Interfaces;
 using MyDDD.Application.ViewModels;
+using MyDDD.Domain.Commands;
+using MyDDD.Domain.Core.Bus;
 using MyDDD.Domain.Interfaces;
 using MyDDD.Domain.Model;
 using System;
@@ -16,13 +18,17 @@ namespace MyDDD.Application.Services
 
         private readonly IMapper _mapper;
 
+        private readonly IMediatorHandler _bus;
+
         public StudentAppService(
             IStudentRepository studentRepository,
-            IMapper mapper
+            IMapper mapper,
+            IMediatorHandler bus
             )
         {
             _mapper = mapper;
             _studentRepository = studentRepository;
+            _bus = bus;
         }
 
         public void Dispose()
@@ -43,9 +49,12 @@ namespace MyDDD.Application.Services
 
         public void Register(StudentViewModel studentViewModel)
         {
+            var registerCommand = _mapper.Map<RegisterStudentCommand>(studentViewModel);
+            _bus.SendCommand(registerCommand);
 
-            _studentRepository.Add(
-                _mapper.Map<Student>(studentViewModel));
+
+            //_studentRepository.Add(
+            //    _mapper.Map<Student>(studentViewModel));
         }
 
         public void Remove(Guid id)
